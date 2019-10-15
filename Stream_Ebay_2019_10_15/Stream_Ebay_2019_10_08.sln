@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ebay_Server", "Stream_Vatera_2019_10_08\Ebay_Server.csproj", "{7A6B2287-F2C9-4532-9CF6-C31C8EA1A5B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ebay_Client", "Stream_Vatera_Client\Ebay_Client.csproj", "{C33C09BF-57DF-4ED2-A8C6-B2175F7BFAB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A6B2287-F2C9-4532-9CF6-C31C8EA1A5B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A6B2287-F2C9-4532-9CF6-C31C8EA1A5B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A6B2287-F2C9-4532-9CF6-C31C8EA1A5B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A6B2287-F2C9-4532-9CF6-C31C8EA1A5B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C33C09BF-57DF-4ED2-A8C6-B2175F7BFAB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C33C09BF-57DF-4ED2-A8C6-B2175F7BFAB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C33C09BF-57DF-4ED2-A8C6-B2175F7BFAB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C33C09BF-57DF-4ED2-A8C6-B2175F7BFAB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

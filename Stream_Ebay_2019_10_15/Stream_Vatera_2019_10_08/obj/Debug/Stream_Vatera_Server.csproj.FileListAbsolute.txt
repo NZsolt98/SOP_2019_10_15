@@ -1,0 +1,6 @@
+D:\Nagy Zsolt\Stream_Vatera_2019_10_08\Stream_Vatera_2019_10_08\bin\Debug\Stream_Vatera_2019_10_08.exe.config
+D:\Nagy Zsolt\Stream_Vatera_2019_10_08\Stream_Vatera_2019_10_08\bin\Debug\Stream_Vatera_2019_10_08.exe
+D:\Nagy Zsolt\Stream_Vatera_2019_10_08\Stream_Vatera_2019_10_08\bin\Debug\Stream_Vatera_2019_10_08.pdb
+D:\Nagy Zsolt\Stream_Vatera_2019_10_08\Stream_Vatera_2019_10_08\obj\Debug\Stream_Vatera_Server.csprojResolveAssemblyReference.cache
+D:\Nagy Zsolt\Stream_Vatera_2019_10_08\Stream_Vatera_2019_10_08\obj\Debug\Stream_Vatera_2019_10_08.exe
+D:\Nagy Zsolt\Stream_Vatera_2019_10_08\Stream_Vatera_2019_10_08\obj\Debug\Stream_Vatera_2019_10_08.pdb

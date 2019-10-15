@@ -1,0 +1,6 @@
+D:\Nagy Zsolt\Stream_Ebay_2019_10_08\Stream_Vatera_Client\bin\Debug\Stream_Vatera_Client.exe.config
+D:\Nagy Zsolt\Stream_Ebay_2019_10_08\Stream_Vatera_Client\bin\Debug\Stream_Vatera_Client.exe
+D:\Nagy Zsolt\Stream_Ebay_2019_10_08\Stream_Vatera_Client\bin\Debug\Stream_Vatera_Client.pdb
+D:\Nagy Zsolt\Stream_Ebay_2019_10_08\Stream_Vatera_Client\obj\Debug\Ebay_Client.csprojResolveAssemblyReference.cache
+D:\Nagy Zsolt\Stream_Ebay_2019_10_08\Stream_Vatera_Client\obj\Debug\Stream_Vatera_Client.exe
+D:\Nagy Zsolt\Stream_Ebay_2019_10_08\Stream_Vatera_Client\obj\Debug\Stream_Vatera_Client.pdb
